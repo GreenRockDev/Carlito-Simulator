@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - UI MAIN
+  - Cocina UI
+  - Bevida UI
+  - Envio UI
   layers:
   - Default
   - TransparentFX
