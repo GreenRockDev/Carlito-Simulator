@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\carlos\\Carlito-Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Draggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Draggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Hover Item Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Hover Item Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Hover Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Hover Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\UI SCRIPT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,38 +37,64 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Draggable.cs",
+              "DocumentMoniker": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Draggable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Draggable.cs",
+              "ToolTip": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Draggable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Draggable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:02:57.413Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Hover Item Script.cs",
+              "DocumentMoniker": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Hover Item Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hover Item Script.cs",
+              "ToolTip": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Hover Item Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hover Item Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:45:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Hover Script.cs",
               "DocumentMoniker": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Hover Script.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Hover Script.cs",
               "ToolTip": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\Hover Script.cs",
               "RelativeToolTip": "Assets\\Scripts\\Hover Script.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T02:32:28.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "chef.cs",
               "DocumentMoniker": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\chef.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\chef.cs",
               "ToolTip": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\chef.cs",
               "RelativeToolTip": "Assets\\Scripts\\chef.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T22:07:58.09Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CocinaScript.cs",
               "DocumentMoniker": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\CocinaScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CocinaScript.cs",
@@ -68,12 +102,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CocinaScript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:04:00.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T20:04:00.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UI SCRIPT.cs",
               "DocumentMoniker": "D:\\carlos\\Carlito-Simulator\\Assets\\Scripts\\UI SCRIPT.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI SCRIPT.cs",
@@ -81,8 +114,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UI SCRIPT.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T01:24:11.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T01:24:11.318Z"
             }
           ]
         }

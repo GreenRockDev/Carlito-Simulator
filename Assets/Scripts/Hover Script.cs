@@ -1,27 +1,36 @@
 
 //HoverScript
+using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class HoverScript : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
+    
     public GameObject menu;
+    private bool isPointerOverTrigger = false;
+    private bool isPointerOverMenu = false;
+
+    void FixedUpdate()
+    {
+        if (menu != null)
+        {
+            menu.SetActive(isPointerOverTrigger || isPointerOverMenu);
+        }
+    }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        if (menu != null) {
-            UnityEngine.Debug.Log("hover");
-            menu.SetActive(true);
-            //menu.OrderLayer(1);
-        }
-
-}
+        isPointerOverTrigger = true;
+    }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        if (menu != null) {
-            menu.SetActive(false);
-            //menu.OrderLayer(-1);
-        }
+        isPointerOverTrigger = false;
+    }
+
+    public void SetMenuHover(bool value)
+    {
+        isPointerOverMenu = value;
     }
 }
